@@ -23,7 +23,7 @@ class Tateti:
 
         n = len(self.board)
 
-        # checking rows
+        # check filas
         for i in range(n):
             win = True
             for j in range(n):
@@ -33,7 +33,7 @@ class Tateti:
             if win:
                 return win
 
-        # checking columns
+        # check columnas
         for i in range(n):
             win = True
             for j in range(n):
@@ -43,7 +43,7 @@ class Tateti:
             if win:
                 return win
 
-        # checking diagonals
+        # check diagonales
         win = True
         for i in range(n):
             if self.board[i][i] != player:
