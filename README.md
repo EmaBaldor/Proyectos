@@ -1,7 +1,7 @@
 
-# PROYECTOS DE PRACTICA EN PYTHON
+# **PROYECTOS DE PRACTICA EN PYTHON**
 
-<img src="python.png" width="80" height="80">
+![Python](https://user-images.githubusercontent.com/73259252/230503150-8f976df9-c037-4f10-ab54-c9aba5fcd0b2.png)
 
 
 >## *api_transporte*
